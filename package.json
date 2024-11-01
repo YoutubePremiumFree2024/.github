@@ -1,0 +1,29 @@
+{
+  "name": "youtube-premium-mod-game",
+  "version": "1.0.0",
+  "description": "A game repository for YouTube Premium MOD, enhancing the YouTube experience with ad-free videos, offline downloads, and custom features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/youtube-premium-mod-game.git"
+  },
+  "keywords": [
+    "YouTube",
+    "Premium",
+    "MOD",
+    "Game",
+    "Ad-Free",
+    "Offline"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/youtube-premium-mod-game/issues"
+  },
+  "homepage": "https://github.com/yourusername/youtube-premium-mod-game#readme",
+  "dependencies": {}
+}
